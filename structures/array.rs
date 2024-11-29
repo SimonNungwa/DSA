@@ -1,3 +1,11 @@
+/*
+    // Rust Arrays
+    // data type
+    // ! data type
+    // default values
+*/
+
+
 // data type
 
 fn main() {
